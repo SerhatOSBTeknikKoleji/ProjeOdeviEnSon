@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="productQuantity" type="id" />
+    <item name="addQuantityBtn" type="id" />
+    <item name="subtractQuantityBtn" type="id" />
+</resources>
